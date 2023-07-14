@@ -1,8 +1,8 @@
-# hill-top-discovery
+# hilltop-discovery-service
 
 ## Hosted in
 
-* 
+* http://hilltop-discovery-service.eu-north-1.elasticbeanstalk.com
 
 ## Sonar cloud analysis
 
