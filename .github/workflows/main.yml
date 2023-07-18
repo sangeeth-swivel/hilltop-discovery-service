@@ -58,7 +58,7 @@ jobs:
           SONAR_TOKEN: '${{ secrets.SONAR_TOKEN }}'
         run: >-
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
-          -Dsonar.projectKey=sangeeth-swivel_hilltop-user-service
+          -Dsonar.projectKey=sangeeth-swivel_hilltop-discovery-service
   build:
     needs: scan
     name: Build
